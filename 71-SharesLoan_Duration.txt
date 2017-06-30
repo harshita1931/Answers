@@ -1,0 +1,3 @@
+71
+SharesLoan_Duration
+The actual time taken to sanction and process the Loan Against Shares/Debentures depends on the <i><u>time taken to establish the creditworthiness of the borrower.</u></i> The maximum tenor (time period) given by SBI for Loan Against Shares is up to 3 years.

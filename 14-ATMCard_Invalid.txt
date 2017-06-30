@@ -1,0 +1,3 @@
+14
+ATMCard_Invalid
+If the ATM machine shows such an issue, there could be a track problem with the card.<br>First, the customer should try transaction on <u><i>some other ATM on State Bank Group Network</i></u>, and if he/she is getting the same message again, the card has to be replaced.

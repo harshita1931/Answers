@@ -1,0 +1,3 @@
+77
+SharesLoan_MarginAmt
+The customer will need to provide a <i><u>margin amount of 50%</u></i> of the prevailing market prices of the shares being offered as security.

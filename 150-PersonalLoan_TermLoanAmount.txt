@@ -1,0 +1,3 @@
+150
+PersonalLoan_TermLoanAmount
+Term Loan Amount is as follows:<br><ul><li><b> Min: Rs. 25,000/- </b></li><li> <b>Maximum: 24 times NMI </b>subject to a maximum of Rs. 15.00 lacs. </li> </ul> <br><a href="https://www.sbi.co.in/portal/documents/25328/14486993/Personal+Loans+-+MITC.pdf" target="_blank">Click here for detailed Information!</a>

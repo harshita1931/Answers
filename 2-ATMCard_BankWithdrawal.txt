@@ -1,0 +1,3 @@
+2
+ATMCard_BankWithdrawal
+State Bank has entered into an arrangement for multilateral sharing of ATM network with <b>59 banks</b> under NFS.<br><br>The card holder can withdraw a <i><b><u>minimum of Rs.100</u></b></i>, and a <i><b><u>maximum of Rs.40,000</u></b></i> (in multiples of Rs.100) per day subject to availability of balance in the account.<br><br><a href="https://www.sbi.co.in/portal/web/customer-care/faq-atm-services" target="_blank">Click here for details!</a>

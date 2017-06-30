@@ -1,0 +1,3 @@
+109
+FestivalLoan_FamilyIncome
+Your spouse's income can also be considered in calculating the Festival Loan amount provided he/she guarantees the loan or if the loan is taken jointly.

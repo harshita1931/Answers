@@ -1,0 +1,3 @@
+123
+PersonalLoan_ChangeInterestRate
+For any <i><u>changes in the interest rates,</u></i> the borrower shall be deemed to have notice of changes whenever there are changes in MCLR <i><u>(Marginal Cost of fund based Lending Rate)</u></i> or increase in interest rates where there is no change in MCLR.<br><br><a href="https://www.sbi.co.in/portal/web/interest-rates/marginal-cost-of-fund-based-lending-rate-mclr-with-effect-from-01-06-2017" target="_blank">Click here for latest MCLR details!</a>

@@ -1,0 +1,3 @@
+61
+HousingLoan_Security
+SBI requires a mortgage of the property for which the loan is being taken. <br>Cases where mortgage can't be provided, other tangible security should be provided.

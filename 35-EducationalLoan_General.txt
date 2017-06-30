@@ -1,0 +1,3 @@
+35
+EducationalLoan_General
+For Educational Loan, some commonly asked questions are:<ul><li><a href="javascript:process('What important documents are needed to apply for SBI Educational Loan');">Documents required</a></li><li><a href="javascript:process('What is the Interest Rate for Educational Loan?');">Interest Rate</a></li><li><a href="javascript:process('What are the charges for Educational Loan?');">Fees for loan</a></li><li><a href="javascript:process('What is EMI in Educational Loan?');">EMI</a></li><li><a href="javascript:process('Since there is a moratorium period, how will my Educational Loan repayments be determined?');">Moratorium</a></li><li><a href="javascript:process('What is the repayment schedule of Educational Loan?');">Repayment method</a></li></ul>

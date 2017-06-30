@@ -1,0 +1,3 @@
+102
+CarLoan_Security
+A charge on the vehicle financed is noted with local Transport Authorities. Customer's spouse's guarantee, if his/her income has been considered for fixing the loan amount, would also be required. Some other security may also be needed in certain cases.

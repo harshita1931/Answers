@@ -1,0 +1,3 @@
+99
+CarLoan_Prepayment
+SBI <u>doesn't levy any prepayment penalty or foreclosure charges</u> on Car Loan on customers.

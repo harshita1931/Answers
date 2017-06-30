@@ -1,0 +1,3 @@
+116
+FestivalLoan_Prepay
+Customers can prepay the Festival Loan at any stage. There is <b><u><i>no prepayment penalty applicable</i></u></b> on SBI Festival Loans. <br> <br> <a href="https://www.sbi.co.in/portal/web/personal-banking/festival-loans" target="_blank"> Click here to read more about the same!</a>

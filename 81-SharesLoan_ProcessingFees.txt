@@ -1,0 +1,3 @@
+81
+SharesLoan_ProcessingFees
+The processing fees for Share Loan is Rs 1000 and applicable Service Tax (Applicable only for Overdraft A/c).

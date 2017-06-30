@@ -1,0 +1,3 @@
+106
+FestivalLoan_Documents
+Following documents are required for availing Festival Loan: <br><ul><li>Passport Size Photograph</li><li> Proof of address</li><li> Latest Salary Slip</li><li> Last 2 year ITR</li></ul>

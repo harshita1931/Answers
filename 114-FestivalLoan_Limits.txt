@@ -1,0 +1,3 @@
+114
+FestivalLoan_Limits
+Your festival loan limit would be determined by your <b><i>income and repayment capacity.</i></b> The minimum amount is <b><i>Rs.5,000</i></b> and maximum amount is <b><i>4 times your Net Monthly Income,</i></b> with a ceiling of Rs.50,000.

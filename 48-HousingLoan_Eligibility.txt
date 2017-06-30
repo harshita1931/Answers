@@ -1,0 +1,3 @@
+48
+HousingLoan_Eligibility
+To be eligible for availing Housing Loan, the customer should be <b><u>18 - 70 years old.</u></b><br><br><a href="https://onlineapply.sbi.co.in/personal-banking/home-loan" target="_blank">Click here to apply for SBI Housing Loan!</a>

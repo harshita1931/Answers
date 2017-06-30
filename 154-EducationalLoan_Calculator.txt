@@ -1,0 +1,3 @@
+154
+EducationalLoan_Calculator
+In order to <i><u>calculate the Student Educational Loan</u></i>, students can use the calculator provided by SBI.<br><br><a href="https://www.sbi.co.in/portal/web/student-platform/studentloan-calculator" target="_blank">Click here for SBI Student Educational Loan Calculator!</a>

@@ -1,0 +1,3 @@
+37
+EducationalLoan_Moratorium
+The outstanding interest for the moratorium period will be added to the loan amount at the time of commencement of the repayment. EMI will be determined on this amount at the time of commencement of repayment.

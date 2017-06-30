@@ -1,0 +1,3 @@
+113
+FestivalLoan_InterestRate
+On an annual reducing balance method, you will continue to pay interest on amounts you repay during the coming one year as the interest for the year is determined on the <b><i>basis of the balance outstanding at the beginning of the year.</i></b> <br><br> <a href="https://www.sbi.co.in/portal/web/interest-rates/other-schemes" target="_blank">Click here to find SBI Festival Loan Interest Rates!</a>

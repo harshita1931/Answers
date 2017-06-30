@@ -1,0 +1,3 @@
+103
+CarLoan_SpouseIncome
+Spouse's income can be included in the Car Loan provided he/she <b><i>joins as co-borrower.</i></b>

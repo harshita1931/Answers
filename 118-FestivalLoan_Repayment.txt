@@ -1,0 +1,3 @@
+118
+FestivalLoan_Repayment
+The loan is repayable in up to <b><i>12 equated monthly installments (EMIs).</i></b> The minimum amount that you are expected to pay every month is the EMI. <br><br><a href="https://www.sbi.co.in/portal/web/home/emi-calculator" target="_blank">Click here to calculate your EMI!</a>

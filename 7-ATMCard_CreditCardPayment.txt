@@ -1,0 +1,3 @@
+7
+ATMCard_CreditCardPayment
+If you are a State Bank ATM card holder, you can make your SBI credit card payments at <i><u><b>over 26,000 State Bank ATMs</b></u></i>. Customers need to register in order to make such payments.<br><br><a href="https://www.sbi.co.in/portal/web/customer-care/faq-atm-services" target="_blank">Click here for details on credit card payments!</a>

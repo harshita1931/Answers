@@ -1,0 +1,3 @@
+25
+ATMCard_Refusal
+In case the <b>ATM Card is refused</b> by a merchant, the <b>bank is not responsible</b>. Nor is bank responsible in any respect for the goods or services supplied to the cardholder.

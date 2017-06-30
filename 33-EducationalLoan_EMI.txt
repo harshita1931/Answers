@@ -1,0 +1,3 @@
+33
+EducationalLoan_EMI
+EMI stands for Equated Monthly Installments. This installment comprises both principal and interest components. Your EMI would be calculated depending on the tenor (time period) you choose, to repay your loan.<br><br>The EMI would be higher if you choose to repay within a shorter period as against a longer-term loan. A shorter repayment period, however, reduces your interest cost over the term of the loan. <br><br><a href="https://www.sbi.co.in/portal/web/student-platform/calculator" target="_blank">Click here to calculate your EMI now!</a>

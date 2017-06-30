@@ -1,0 +1,3 @@
+101
+CarLoan_Repayment
+The minimum amount that customers are expected to <b>pay every month is the EMI.</b> With SBI, customers can enjoy the <b>longest repayment period</b> in the industry i.e. 84 MONTHS (7 YEARS) !!

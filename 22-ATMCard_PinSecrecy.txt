@@ -1,0 +1,3 @@
+22
+ATMCard_PinSecrecy
+If at any time customer feels that the PIN has been inadvertently or otherwise divulged to anyone, he/she should change the same immediately, to prevent any misuse.<br><br><a href="javascript:process('How often PIN can be changed?');">Click here to know about changing PIN</a>

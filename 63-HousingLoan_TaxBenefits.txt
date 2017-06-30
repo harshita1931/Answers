@@ -1,0 +1,3 @@
+63
+HousingLoan_TaxBenefits
+Resident Indians are eligible for certain <b><i><u>Tax benefits on principal and interest components</u></i></b> of a loan. <br> Under Section 24(1), interest repayment of <b>Rs.1,50,000/- per annum</b> qualifies for tax saving.

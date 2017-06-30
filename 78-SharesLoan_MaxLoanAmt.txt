@@ -1,0 +1,3 @@
+78
+SharesLoan_MaxLoanAmt
+The maximum amount of Loan you can take under Loan against Shares is <b><i>Rs 20.00 lacs.</i></b> <br>The minimum amount is <b><i>Rs 50,000.</i></b> <br><br> This facility is available to existing individual customers enjoying a past satisfactory relationship with SBI and maintaining their DEMAT Account with SBI Cap Sec.

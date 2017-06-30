@@ -1,0 +1,3 @@
+30
+ATMCard_Validity
+ATM cards issued after <b>13th November 2002</b> with Maestro Logo have <b><u>NO EXPIRY DATE</u></b> !!!

@@ -1,0 +1,3 @@
+29
+ATMCard_UnauthorizedLiability
+The bank does not bear any liability for unauthorised use of ATM Card. The responsibility is solely vested with the cardholder.

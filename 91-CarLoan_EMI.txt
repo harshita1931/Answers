@@ -1,0 +1,3 @@
+91
+CarLoan_EMI
+<b>EMI stands for Equated Monthly Installments.</b> This installment comprises both principal and interest components. Your EMI would be calculated depending on the tenor (time period) you choose, to repay your loan. The EMI would be higher if you choose to repay within a shorter period as against a longer-term loan.<br><br>You can also contact your <i><b>nearest SBI Branch</b></i> to know the lowest EMI for proposed loan amount and tenor.

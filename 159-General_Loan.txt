@@ -1,0 +1,3 @@
+159
+General_Loan
+Please select a product: <ul><li><a href=""javascript:process('Tell me about Personal Loan');"">Personal Loan</a></li> <li><a href=""javascript:process('Tell me about Housing Loan');"">Housing Loan</a></li> <li><a href=""javascript:process('Tell me about Educational Loan');"">Educational Loan</a></li> <li><a href=""javascript:process('Tell me about Festival Loan');"">Festival Loan</a></li> <li><a href=""javascript:process('Tell me about Loan Against Shares');"">Loan Against Shares/Debentures</a></li> <li><a href=""javascript:process('Tell me about Car Loan');"">Car Loan</a></li></ul>

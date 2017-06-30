@@ -1,0 +1,3 @@
+43
+HousingLoan_ApprovalValidity
+The in-principle approval granted by SBI is <i>valid for 3 months</i> to give customers sufficient time to choose a flat/house of their choice.

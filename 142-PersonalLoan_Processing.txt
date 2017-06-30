@@ -1,0 +1,3 @@
+142
+PersonalLoan_Processing
+Processing charges are charged as <b>1 percent</b> of the personal loan amount. There are <b>no hidden costs.</b> Processing fees have to be paid upfront. <br> <br>

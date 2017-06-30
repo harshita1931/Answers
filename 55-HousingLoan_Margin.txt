@@ -1,0 +1,3 @@
+55
+HousingLoan_Margin
+The margin for Housing Loan varies with the <b>amount of Loan</b>. <br> <br> <a href="https://www.sbi.co.in/portal/web/personal-banking/features1" target="_blank" > Click here for the detailed margin table!</a>

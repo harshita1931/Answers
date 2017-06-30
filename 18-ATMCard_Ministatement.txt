@@ -1,0 +1,3 @@
+18
+ATMCard_Ministatement
+Mini Statement is a statement of the user's account showing last few transactions in the account. It can be obtained only when the <i><u>online link to customer's account is available</u></i>, i.e. CBS is online otherwise it will give code 72.

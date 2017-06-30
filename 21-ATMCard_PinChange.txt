@@ -1,0 +1,3 @@
+21
+ATMCard_PinChange
+Customers should keep their Card PIN secretly to prevent any loss. Card PIN can be changed as often as required at State Bank ATMs. This is to maintain secrecy and prevent any misuse of the ATM-cum-Debit card.

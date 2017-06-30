@@ -1,0 +1,3 @@
+108
+FestivalLoan_EMI
+<b><i>EMI stands for Equated Monthly Installments.</i></b> This installment comprises both principal and interest components. <br><br> <a href="https://www.sbi.co.in/portal/web/home/emi-calculator" target="_blank"> Click here to calculate your EMI now!</a>

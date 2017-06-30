@@ -1,0 +1,3 @@
+13
+ATMCard_International
+Transaction limit for the International card is <i><u><b>USD 1,000 per day per account for ATM withdrawal</b></u></i> and purchases up to <i><u><b>USD 1,000 at POS terminal </b></u></i>separately are permitted (i.e. the total permissible withdrawal at POS terminals and ATMs will be USD 2,000 per day per account ).<br> <i>These guidelines are subject to change.</i>

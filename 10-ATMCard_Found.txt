@@ -1,0 +1,3 @@
+10
+ATMCard_Found
+If cardholders are able to find their lost card, they should make a <u><i>written request to the card-issuing branch</i></u> in order to reactivate the card.

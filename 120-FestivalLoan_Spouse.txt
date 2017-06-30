@@ -1,0 +1,3 @@
+120
+FestivalLoan_Spouse
+Spouse's income can be included provided he/she guarantees the loan or the loan is taken jointly. <br><br> <a href="https://www.sbi.co.in/portal/web/personal-banking/festival-loans" target="_blank">Click here for information on Festival Loans!</a>

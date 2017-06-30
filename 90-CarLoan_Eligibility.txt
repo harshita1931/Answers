@@ -1,0 +1,3 @@
+90
+CarLoan_Eligibility
+To avail an SBI Car Loan, you should be an individual <b><i>aged 21 to 65 years</i></b> and <a href="https://www.sbi.co.in/portal/web/personal-banking/sbi-new-car-loan-scheme" target="_blank">must satisfy the criteria as mentioned here. </a><br><br><a href="https://onlineapply.sbi.co.in/personal-banking/auto-loan?se=Product&cp=SBICOIN&ag=General" target="_blank">Click here to apply for SBI new Car Loan!</a>

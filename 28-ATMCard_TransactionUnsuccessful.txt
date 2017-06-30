@@ -1,0 +1,3 @@
+28
+ATMCard_TransactionUnsuccessful
+For failed transactions wherein money is already debited from the account, kindly report immediately to our Contact Centre online <a href="https://www.sbi.co.in/portal/web/customer-care" target="_blank"><b>(click here for SBI Customer Care)</b></a> or through <b>1800 4253800, 1800 112211 (toll-free).</b> You will be provided a ticket number for the complaint. Later you can track the complaint with our Contact Centre using this number.<br><br>The time limit for lodging such claims is <i><u>60 days from the date of the transaction.</u></i>

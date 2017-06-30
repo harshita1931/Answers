@@ -1,0 +1,3 @@
+8
+ATMCard_ExchangeRate
+The exchange rate to convert the <b>transaction currency </b>will be decided by <b>Master Card International</b> and the exchange rate to convert <b>USD into Indian Rupee </b>will be decided by <b>Bank</b>.

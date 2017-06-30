@@ -1,0 +1,3 @@
+119
+FestivalLoan_Security
+<i><u>No primary or collateral security</u></i> is required for Festival Loan if the check-off facility is available from customer's employers.

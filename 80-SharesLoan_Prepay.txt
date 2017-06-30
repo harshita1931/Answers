@@ -1,0 +1,3 @@
+80
+SharesLoan_Prepay
+Customers can prepay their Loan Against Shares, either partly or in full, at any stage, with <b><i><u>no prepayment penalty.</u></i></b>

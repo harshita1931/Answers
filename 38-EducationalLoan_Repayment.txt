@@ -1,0 +1,3 @@
+38
+EducationalLoan_Repayment
+The repayment would begin one year after the course period or six months after the student gets a job, whichever is earlier. Students are expected to pay their EMI on a monthly basis. However, students can choose to pay more than the EMI, and <i><b>no prepayment penalty will be charged.</i></b>

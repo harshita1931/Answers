@@ -1,0 +1,3 @@
+57
+HousingLoan_ProcessingFees
+The charges/processing fees for Housing Loan varies with the amount of Loan. <br> <br> <a href="https://www.sbi.co.in/portal/web/personal-banking/fees" target="_blank" > Click here for the detailed table!</a>

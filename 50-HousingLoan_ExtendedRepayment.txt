@@ -1,0 +1,3 @@
+50
+HousingLoan_ExtendedRepayment
+The extended repayment period is sanctioned by SBI provided that at all times the criteria regarding <i>maximum permissible finance</i> and <i>security margin</i> under the bank's scheme are not diluted.<br><br><a href="https://www.sbi.co.in/portal/web/personal-banking/home-loan-products" target="_blank">Click here for the detailed Information about extended repayment!</a>

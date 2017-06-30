@@ -1,0 +1,3 @@
+95
+CarLoan_InterestRate
+SBI Car Loan Interest Rates vary depending on scheme.<br><br><a href="https://www.sbi.co.in/portal/web/interest-rates/auto-loans-scheme" target="_blank">Click here for Interest Rates for various Car Loan schemes!</a>

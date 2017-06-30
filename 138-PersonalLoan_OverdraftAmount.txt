@@ -1,0 +1,3 @@
+138
+PersonalLoan_OverdraftAmount
+Overdraft amount for Personal Loan:<br><ul> <li> Minimum: <b>Rs. 5.00 lacs</b> </li> <li> Maximum: 24 times NMI subject to a maximum of <b>Rs. 15.00 lacs.</b> </li></ul> <a href="https://www.sbi.co.in/portal/web/personal-banking/sbi-saral-personal-loan" target="_blank">Click here for more details!</a>

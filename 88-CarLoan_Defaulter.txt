@@ -1,0 +1,3 @@
+88
+CarLoan_Defaulter
+If the amount due is not paid by due date, the customer will be <b>sent reminders</b> from time to time for payment outstanding on his loan account, <u><i><b>by post, fax, telephone, email, SMS messaging and/or through third parties</b></i></u> appointed for collection purpose to remind, follow-up and collect dues.

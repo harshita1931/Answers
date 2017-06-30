@@ -1,0 +1,3 @@
+145
+PersonalLoan_Repayment
+The minimum amount that you are expected to <b>pay every month is the EMI</b>. You are allowed to pay more than the EMI if you wish to, and we do <b><u><i>not charge any prepayment penalty.</i></u></b>

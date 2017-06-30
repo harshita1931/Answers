@@ -1,0 +1,3 @@
+23
+ATMCard_Receive
+Once the application is complete and submitted, the customer will receive the SBI ATM card within <b><i>7 working days</i></b>, directly by speed post at the recorded address.<br><br>The customers can collect their ATM card PIN from the card-issuing branch after receipt of the card.

@@ -1,0 +1,3 @@
+147
+PersonalLoan_SecondLoan
+The second loan can be taken after 1 year of disbursement of the 1st loan provided the 1st loan has been satisfactorily conducted and is regular at the time of sanction of 2nd loan. <br> <a href="https://www.sbi.co.in/portal/documents/25328/14486993/Personal+Loans+-+MITC.pdf" target="_blank"> Click here for detailed Information!</a>

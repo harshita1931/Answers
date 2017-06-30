@@ -1,0 +1,3 @@
+83
+SharesLoan_Repayment
+Repayment Schedule depends on whether the loan has been structured as a <u>demand loan</u> or an <u>overdraft facility.</u> <br><br>In the case of the former, i.e. demand loan, there is a fixed repayment program. For latter or the overdraft facility, the drawing power is reduced over the tenor (time period) of the loan.

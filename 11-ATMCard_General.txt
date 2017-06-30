@@ -1,0 +1,3 @@
+11
+ATMCard_General
+For ATM Services, here are some commonly asked questions:<ul><li><a href="javascript:process('I want to block my card');">Blocking a lost card</a></li><li><a href="javascript:process('Apply for ATM Card');">ATM Card Application</a></li><li><a href="javascript:process('How to handle Card invalid message?');">Handling Card Invalid message</a></li><li><a href="javascript:process('How often PIN can be changed?');">PIN change</a></li><li><a href="javascript:process('Get a replacement card');">Card Replacement</a></li><li><a href="javascript:process('What is the validity of ATM Card?');">Card Validity</a></li><li><a href="javascript:process('What are the security tips for ATM transaction?');">Security Tips for using ATM</a></li></ul>

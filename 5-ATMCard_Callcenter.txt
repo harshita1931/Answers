@@ -1,0 +1,3 @@
+5
+ATMCard_Callcenter
+At SBI Call Center, you can get information about:<ul><li>ATM Card application status</li><li>Card delivery status</li><li>Blocking a lost card</li><li>Details of Value Added Services</li><li>State Bank ATM Locations</li><li>Guidance for ATM Card usage</li><li>ATM Card charges</li><li>Repin request</li><li>Registering complaints</li></ul>

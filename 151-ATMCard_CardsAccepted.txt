@@ -1,0 +1,3 @@
+151
+ATMCard_CardsAccepted
+Besides all debit cards issued by State Bank of India, following cards are also accepted at State Bank ATMs:<ul><li>State Bank Credit Card</li><li>Cards issued by other banks displaying <i>Maestro, Master Card, Cirrus, VISA and VISA Electron logos</i></li><li>All Debit/ Credit Cards issued by any bank outside India displaying <i>Maestro, Master Card, Cirrus, VISA and VISA Electron logos</i></li></ul>

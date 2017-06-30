@@ -1,0 +1,3 @@
+137
+PersonalLoan_Margin
+Margins for Personal Loan vary depending on the reason for the loan. <br>  <a href="https://www.sbi.co.in/portal/documents/25328/14486993/Personal+Loans+-+MITC.pdf/" target="_blank">Click here for more information!</a>

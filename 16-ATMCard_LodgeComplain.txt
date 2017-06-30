@@ -1,0 +1,3 @@
+16
+ATMCard_LodgeComplain
+The claim can be lodged after <u><b>60 days to 120 days from the date of the transaction</b></u> in good faith. Credit will be provided to the customer account only after recovery acceptance from the acquiring bank.<br><br>However, as per NCPI guidelines, claims for failed ATM transactions done on <b>other bank ATMs</b> cannot be lodged after <b><u>120 days from the date of the transaction</u></b>.<br><br><a href="https://www.sbi.co.in/portal/web/customer-care/faq-atm-services" target="_blank">Click here for more General Information and Safety Tips!</a>

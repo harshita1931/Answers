@@ -1,0 +1,3 @@
+97
+CarLoan_Margin
+For borrowers with <i>Net Annual Income up to Rs.10 lacs</i> - Car Loan margin is<b><u> 15% of 'On Road Price' of car</u></b><br><br>For borrowers with <i>Net Annual Income more than Rs.10 lacs</i> - Car Loan margin is <b><u> 15% on "ex-showroom price" or 20% on "On-road price"</u></b>, whichever is selected by the borrower.

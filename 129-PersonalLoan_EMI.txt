@@ -1,0 +1,3 @@
+129
+PersonalLoan_EMI
+<b>EMI stands for Equated Monthly Installments.</b> This installment comprises both principal and interest components. Use the <i><u>EMI calculator</u></i> to find out your monthly payments based on the loan amount, the rate of interest and the repayment period.<br><br>SBI requires that for Personal Loan, <b><u>EMI/NMI Ratio should not exceed 50%.</u></b> <br><br><a href="https://www.sbi.co.in/portal/web/home/emi-calculator" target="_blank">Click here to calculate your EMI now!</a>

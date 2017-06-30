@@ -1,0 +1,3 @@
+139
+PersonalLoan_PenalInterest
+Penal Interest <b><u>@2% p.a.</u></b> would be charged over and above the applicable interest rate on the overdue amount for the period of default. <br><br><i> If part installment or part EMI remains overdue then penal interest should not be levied.</i>

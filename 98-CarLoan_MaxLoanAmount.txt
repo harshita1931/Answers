@@ -1,0 +1,3 @@
+98
+CarLoan_MaxLoanAmount
+The maximum amount for Car Loan sanctioned by SBI depends on the Net Annual Income of the applicant.<br><br><a href="https://www.sbi.co.in/portal/web/personal-banking/sbi-new-car-loan-scheme" target="_blank">Click here for details on Loan scheme!</a>
